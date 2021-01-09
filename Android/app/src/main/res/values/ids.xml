@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="invalid_name" type="string">Please entre a valid name !</item>
+    <item name="invalid_adress" type="string">please entr a valid adress</item>
+    <item name="invalid_username" type="string">Please entr a valid username</item>
+    <item name="editProf" type="id"></item>
+</resources>
